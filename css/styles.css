@@ -1,0 +1,13 @@
+.cost {
+  font-size: 6px;
+  text-align: right;
+}
+
+.date {
+  text-align: center;
+}
+
+.row {
+  padding-left: 20px;
+  padding-right: 20px;
+}
